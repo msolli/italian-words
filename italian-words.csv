@@ -1,0 +1,684 @@
+Story Order,Story Order (Southern),Category,English Word,"Translation (and gender, if appropriate)",Gender,Part of Speech
+721,721,,,,,
+722,722,,Animals,Gli animali,,
+19,19,Animals,dog,il cane (m),,m. noun
+193,193,Animals,cat,il gatto (m),,m. noun
+282,282,Animals,fish,il pesce (m),,m. noun
+322,322,Animals,bird,l’uccello (m),,m. noun
+551,551,Animals,cow,la vacca (f) / la mucca (f),,f. noun
+132,132,Animals,pig,il maiale (m),,m. noun
+197,197,Animals,mouse,il topo (m),,m. noun
+253,253,Animals,horse,il cavallo (m),,m. noun
+323,323,Animals,wing,l’ala (sing f) / le ali (plural f),,f. noun
+255,255,Animals,animal,l’animale (m) / gli animali (plural),,m. noun
+723,723,,,,,
+724,724,,Transportation Related,Il trasporto,,
+510,510,Transportation Related,train,il treno (m),,m. noun
+390,390,Transportation Related,plane,l’aeroplano (m),,m. noun
+530,530,Transportation Related,car,la macchina (f),,f. noun
+114,114,Transportation Related,truck,il camion (m),,m. noun
+87,87,Transportation Related,bicycle,la bicicletta (f),,f. noun
+455,455,Transportation Related,bus,l’autobus (m) / il pullman (m),,m. noun
+147,147,Transportation Related,boat,la barca (f),,f. noun
+617,617,Transportation Related,ship,la nave (f),,f. noun
+115,115,Transportation Related,tire,la gomma (f),,f. noun
+528,528,Transportation Related,gasoline,la benzina (f),,f. noun
+529,529,Transportation Related,engine,il motore (m),,m. noun
+391,391,Transportation Related,(train) ticket,il biglietto (m),,m. noun
+531,531,Transportation Related,transportation,il trasporto (m),,m. noun
+725,725,,,,,
+726,726,,Locations,La location/posizione,,
+517,517,Locations,city,la città (f),,f. noun
+415,415,Locations,house,la casa (f),,f. noun
+647,647,Locations,apartment,l’appartamento (m),,m. noun
+597,597,Locations,street/road,la via (f) / la strada (f),,f. noun
+393,393,Locations,airport,l’aeroporto (m),,m. noun
+302,302,Locations,train station,la stazione dei treni (f),,f. noun
+533,533,Locations,bridge,il ponte (m),,m. noun
+163,163,Locations,hotel,l’hotel (m) / l’albergo (m),,m. noun
+211,211,Locations,restaurant,il ristorante (m),,m. noun
+549,549,Locations,farm,la fattoria (f),,f. noun
+169,169,Locations,court,il tribunale (m),,m. noun
+469,469,Locations,school,la scuola (f),,f. noun
+454,454,Locations,office,l’ufficio (m),,m. noun
+692,692,Locations,room,la camera (f) / la stanza (f),,f. noun
+80,80,Locations,town,,,
+442,442,Locations,university,l’università (f),,f. noun
+496,496,Locations,club,il club (m) / la discoteca (f) / la disco,,m. noun / f. noun
+436,436,Locations,bar,il pub (m),,m. noun
+20,20,Locations,park,il parco (m),,m. noun
+639,639,Locations,camp,il campeggio (m),,m. noun
+92,92,Locations,store/shop,il negozio (m),,m. noun
+66,66,Locations,theater,il teatro (m),,m. noun
+457,457,Locations,library,la biblioteca (f),,
+691,691,Locations,hospital,l’ospedale (m),,m. noun
+599,599,Locations,church,la chiesa (f),,
+367,367,Locations,market,il mercato (m),,m. noun
+580,580,Locations,"country (USA, France, etc)",il paese (m) / la patria (f),,m. noun / f. noun
+331,331,Locations,building,il palazzo (m) / l’edificio (m),,m. noun
+116,116,Locations,ground,la terra (f),,f. noun
+506,506,Locations,space (outer space),il spazio (m),,m. noun
+201,201,Locations,bank,la banca (f),,f. noun
+504,504,Locations,location,la location (f) / la posizione (f) / il posto (m),,f. noun / m. noun
+727,727,,,,,
+728,728,,Clothing Related,L’abbigliamento,,
+604,604,Clothing Related,hat,il capello (m),,m. noun
+237,237,Clothing Related,dress,il vestito (m) / l’abito (m),,m. noun
+605,605,Clothing Related,suit,l’abito da uomo (m),,m. noun
+55,55,Clothing Related,skirt,la gonna (f),,f. noun
+462,462,Clothing Related,shirt,la camicia (f) / la maglia (f),,f. noun
+708,708,Clothing Related,T-shirt,la maglia (f) / la t-shirt (f),,f. noun
+97,97,Clothing Related,pants,i pantaloni (m p),,m. noun
+225,225,Clothing Related,shoes,le scarpe (f p),,f. noun
+98,98,Clothing Related,pocket,la tasca (f),,f. noun
+541,541,Clothing Related,coat,la giacca (f) / il cappotto (m),,f. noun / m. noun
+543,543,Clothing Related,stain,la macchia (f),,f. noun
+91,91,Clothing Related,clothing,l’abbigliamento (m),,m. noun
+729,729,,,,,
+730,730,,Colors,I colori (gender changes according to object),,
+561,561,Colors,red,rosso/a,,
+346,346,Colors,green,verde,,
+461,461,Colors,blue (light/dark),azzurro/a / blu / blu scuro/a,,
+321,321,Colors,yellow,giallo/a,,
+705,705,Colors,brown,marrone,,
+632,632,Colors,pink,rosa (f),,
+416,416,Colors,orange,arancione,,
+568,568,Colors,black,nero/a,,
+6,6,Colors,white,bianco/a,,
+83,83,Colors,gray,grigio/a,,
+446,446,Colors,color,il colore (m),,m. noun
+731,731,,,,,
+732,732,,People,La gente,,
+674,674,People,son,il figlio (m),,m. noun
+640,640,People,daughter,la figlia (f),,f. noun
+515,515,People,mother,la madre (f) / la mamma (f),,f. noun
+710,710,People,father,il padre (m),,m. noun
+58,58,People,parent (= mother/father),i genitori (m p),,m. noun
+61,61,People,baby,il bambino (m) / la bambina (f),,m. noun / f. noun
+206,206,People,man,l’uomo (m),,m. noun
+50,50,People,woman,la donna (f),,f. noun
+419,419,People,brother,il fratello (m),,m. noun
+405,405,People,sister,la sorella (f),,f. noun
+142,142,People,family,la famiglia (f),,f. noun
+603,603,People,grandfather,il nonno (m),,m. noun
+656,656,People,grandmother,la nonna (f),,f. noun
+563,563,People,husband,il marito (m),,m. noun
+233,233,People,wife,la moglie (f),,f. noun
+67,67,People,king,il re (m),,m. noun
+481,481,People,queen,la regina (f),,f. noun
+428,428,People,president,il presidente (m),,m. noun
+410,410,People,neighbor,il vicino (m) / la vicina (f) di casa,,m. noun / f. noun
+356,356,People,boy,il ragazzo (m),,m. noun
+478,478,People,girl,la ragazza (f),,f. noun
+474,474,People,child (= boy/girl),il figlio (m) / la figlia (f) di...,,m. noun / f. noun
+306,306,People,adult (= man/woman),l’adulto (m),,m. noun
+447,447,People,human (≠ animal),l'umano (m),,m. noun
+402,402,People,friend (Add a friend's name),l’amico (m) / l’amica (f),,m. noun / f. noun
+681,681,People,victim,la vittima (f),,f. noun
+247,247,People,player,il giocatore (m) / la giocatrice (f),,m. noun / f. noun
+250,250,People,fan,il fan (m) / l’ammiratore (m) / l’ammiratrice (f) / il tifoso (m) / l’appassionato (m),,m. noun / f. noun
+668,668,People,crowd,il pubblico (m) / la folla (f),,m. noun / f. noun
+667,667,People,person,la persona (f),,f. noun
+733,733,,,,,
+734,734,,Jobs,Il lavoro,,
+468,468,Jobs,Teacher,l’insegnante (m f),,m. noun / f. noun
+441,441,Jobs,student,lo studente (m) / la studentessa (f),,m. noun / f. noun
+170,170,Jobs,lawyer,l’avvocato (m),,m. noun
+187,187,Jobs,doctor,il medico (m) / il dottore (m) / la dottoressa (f),,m. noun / f. noun
+686,686,Jobs,patient,il/la paziente (m f),,m. noun / f. noun
+11,11,Jobs,waiter,il cameriere (m),,m. noun
+452,452,Jobs,secretary,il segretario (m) / la segretaria (f),,m. noun / f. noun
+600,600,Jobs,priest,il prete (m),,m. noun
+463,463,Jobs,police,la polizia (f) / il poliziotto (m),,f. noun / m. noun
+615,615,Jobs,army,l’esercito (m),,m. noun
+704,704,Jobs,soldier,il soldato (m),,m. noun
+152,152,Jobs,artist,l’artista (m f),,m. noun / f. noun
+488,488,Jobs,author,l’autore (m),,m. noun
+202,202,Jobs,manager,il direttore (m) / la direttrice (f),,m. noun/ f. noun
+613,613,Jobs,reporter,il/la reporter (m f) / il la cronista (m f),,m. noun / f. noun
+354,354,Jobs,actor,l’attore (m) l’attrice (f),,m. noun / f. noun
+203,203,Jobs,job,il lavoro (m),,m. noun
+735,735,,,,,
+736,736,,Society,La società,,
+678,678,Society,religion,la religione (f),,f. noun
+130,130,Society,heaven,il cielo (m),,m. noun
+676,676,Society,hell,l’inferno (m),,m. noun
+333,333,Society,death,la morte (f),,f. noun
+190,190,Society,medicine,la medicina (f),,f. noun
+89,89,Society,money,i soldi (m p) / il denaro (m),,m. noun
+174,174,Society,dollar,il dollaro (m),,m. noun
+545,545,Society,bill,il conto (m) / la bolletta (f) / la fattura (f),,m. noun / f. noun
+38,38,Society,marriage,il matrimonio (m),,m. noun
+236,236,Society,wedding,il matrimonio (m),,m. noun
+245,245,Society,team,la squadra (f),,f. noun
+444,444,Society,race (ethnicity),la razza (f),,f. noun
+37,37,Society,sex (the act),il sesso (m),,m. noun
+482,482,Society,sex (gender),il genere (m),,m. noun
+466,466,Society,murder,l’omicida (m) / assassinare (verb),,m. noun
+305,305,Society,prison,la prigione (f),,f. noun
+290,290,Society,technology,la tecnologia (f),,f. noun
+525,525,Society,energy,l’energia (f),,f. noun
+621,621,Society,war,la guerra (f),,f. noun
+610,610,Society,peace,la pace (f),,f. noun
+614,614,Society,attack,l’attacco (m),,m. noun
+430,430,Society,election,l’elezione (f),,f. noun
+520,520,Society,magazine,la rivista,,f. noun
+612,612,Society,newspaper,il giornale (m),,m. noun
+682,682,Society,poison,il veleno (m),,m. noun
+464,464,Society,gun,la pistola (f) / il fucile (m),,f. noun / m. noun
+43,43,Society,sport,lo sport (m),,m. noun
+424,424,Society,race (sport),la corsa (f),,f. noun
+44,44,Society,exercise,l’allenamento (m) / la ginnastica (f),,m. noun / f. noun
+249,249,Society,ball,la palla (f),,f. noun
+344,344,Society,game,il gioco (m) / la partita (f),,m. noun / f. noun
+99,99,Society,price,il prezzo (m),,m. noun
+175,175,Society,contract,il contratto (m),,m. noun
+303,303,Society,drug,la droga (f),,f. noun
+93,93,Society,sign,il segno (m),,m. noun
+519,519,Society,science,la scienza (f),,f. noun
+609,609,Society,God,il Dio (m),,m. noun
+737,737,,,,,
+738,738,,Art Related,L’arte,,
+662,662,Art Related,band,la banda (f),,f. noun
+665,665,Art Related,song,la canzone (f),,f. noun
+500,500,Art Related,instrument (musical),lo strumento (m),,m. noun
+498,498,Art Related,music,la musica (f),,f. noun
+353,353,Art Related,movie,il film (m),,m. noun
+340,340,Art Related,art,l’arte (f),,f. noun
+739,739,,,,,
+740,740,,Beverages,Le bevande,,
+266,266,Beverages,coffee,il caffè (m),,m. noun
+683,683,Beverages,tea,il thé (m),,m. noun
+215,215,Food Related,wine,il vino (m),,m. noun
+438,438,Beverages,beer,la birra (f),,f. noun
+300,300,Beverages,juice,il succo (m),,m. noun
+408,408,Beverages,water,l’acqua (f),,f. noun
+552,552,Beverages,milk,il latte (m),,m. noun
+719,719,Beverages,beverage,la bevanda (f),,f. noun
+741,741,,,,,
+742,742,,Food Related,Il cibo,,
+294,294,Food Related,egg,l’uovo (m) le uova (f p),,m. noun / f. noun
+554,554,Food Related,cheese,il formaggio (m),,m. noun
+370,370,Food Related,bread,il pane (m),,m. noun
+217,217,Food Related,soup,la zuppa (f),,f. noun
+360,360,Food Related,cake,la torta (f),,f. noun
+216,216,Food Related,chicken,il pollo (m),,m. noun
+593,593,Food Related,pork,il maiale (m),,m. noun
+371,371,Food Related,beef,il manzo (m),,m. noun
+594,594,Food Related,apple,la mela (f),,f. noun
+372,372,Food Related,banana,la banana (f),,f. noun
+299,299,Food Related,orange,l’arancia (f),,f. noun
+358,358,Food Related,lemon,il limone (m),,m. noun
+139,139,Food Related,corn,il mais (m),,m. noun
+240,240,Food Related,rice,il riso (m),,m. noun
+592,592,Food Related,oil,l’olio (m),,m. noun
+630,630,Food Related,seed,il seme (m),,m. noun
+675,675,Food Related,knife,il coltello (m),,m. noun
+218,218,Food Related,spoon,il cucchiaio (m),,m. noun
+361,361,Food Related,fork,la forchetta (f),,f. noun
+362,362,Food Related,plate,il piatto (m),,m. noun
+298,298,Food Related,cup,la tazza (f),,f. noun
+295,295,Food Related,breakfast,la colazione (f),,f. noun
+369,369,Food Related,lunch,il pranzo (m),,m. noun
+214,214,Food Related,dinner,la cena (f),,f. noun
+359,359,Food Related,sugar,lo zucchero (m),,m. noun
+591,591,Food Related,salt,il sale (m),,m. noun
+439,439,Food Related,bottle,la bottiglia (f),,f. noun
+368,368,Food Related,food,il cibo (m),,m. noun
+743,743,,,,,
+744,744,,Home Related,La casa,,
+213,213,Home Related,table,il tavolo (m) / la tavola (f),,m. noun / f. noun
+210,210,Home Related,chair,la sedia (f),,f. noun
+167,167,Home Related,bed,il letto (m),,m. noun
+479,479,Home Related,dream,il sogno (m),,m. noun
+272,272,Home Related,window,la finestra (f),,f. noun
+648,648,Home Related,door,la porta (f),,f. noun
+382,382,Home Related,bedroom,la camera da letto (f),,f. noun
+296,296,Home Related,kitchen,la cucina (f),,f. noun
+271,271,Home Related,bathroom,il bagno (m),,m. noun
+475,475,Home Related,pencil,la matita (f),,f. noun
+336,336,Home Related,pen,la penna (f),,f. noun
+149,149,Home Related,photograph,la foto (f) / la fotografia (f),,f. noun
+658,658,Home Related,soap,il sapone (m),,m. noun
+494,494,Home Related,book,il libro (m),,m. noun
+493,493,Home Related,page,la pagina (f),,f. noun
+646,646,Home Related,key,la chiave (f),,f. noun
+417,417,Home Related,paint,la vernice (f),,f. noun
+200,200,Home Related,letter,la lettera (f),,f. noun
+476,476,Home Related,note,la nota (f),,f. noun
+339,339,Home Related,wall,il muro (m) / le mura (f),,m. noun / f. noun
+199,199,Home Related,paper,la carta (f),,f. noun
+330,330,Home Related,floor,la terra (f),,f. noun
+383,383,Home Related,ceiling,il soffitto (m),,m. noun
+652,652,Home Related,roof,il tetto (m),,m. noun
+317,317,Home Related,pool,la piscina (f),,f. noun
+182,182,Home Related,lock,il lucchetto (m),,m. noun
+60,60,Home Related,telephone,il telefono (m),,m. noun
+275,275,Home Related,garden,il giardino (m),,m. noun
+347,347,Home Related,yard,il cantiere (m),,m. noun
+189,189,Home Related,needle,l’ago (m),,m. noun
+375,375,Home Related,bag,la borsa (f),,f. noun
+258,258,Home Related,box,la scatola (f),,f. noun
+86,86,Home Related,gift,il regalo (m),,m. noun
+458,458,Home Related,card,la cartolina (f),,f. noun
+53,53,Home Related,ring,l’anello (m),,m. noun
+154,154,Home Related,tool,l’utensile (m),,m. noun
+181,181,Home Related,home,la casa (f),,f. noun
+745,745,,,,,
+746,746,,Electronics,Le elettroniche,,
+260,260,Electronics,clock,l’orologio (m),,m. noun
+157,157,Electronics,lamp,la lampada (f),,f. noun
+384,384,Electronics,fan,il ventilatore (m),,m. noun
+397,397,Electronics,cell phone,il telefonino (m) / il cellulare (m),,m. noun
+398,398,Electronics,network,la rete (f),,f. noun
+288,288,Electronics,computer,il computer (m),,m. noun
+289,289,Electronics,program (computer),il software (m),,m. noun
+625,625,Electronics,laptop,il notebook (m) / il portatile (m),,m. noun
+716,716,Electronics,screen,lo schermo (m),,m. noun
+148,148,Electronics,camera,la macchina fotografica (f),,f. noun
+714,714,Electronics,television,la televisione (f) / la tivù (f),,f. noun
+664,664,Electronics,radio,la radio (f),,f. noun
+747,747,,,,,
+748,748,,Body Related,Il corpo,,
+485,485,Body Related,head,la testa (f) / il capo (m),,f. noun / m. noun
+34,34,Body Related,neck,il collo (m),,m. noun
+564,564,Body Related,face,la faccia (f) / il viso (m),,f. noun / m. noun
+565,565,Body Related,beard,la barba (f),,f. noun
+569,569,Body Related,hair,i capelli (m p),,m. noun
+274,274,Body Related,eye,l’occhio (m) / gli occhi (m p),,m. noun
+698,698,Body Related,mouth,la bocca (f),,f. noun
+571,571,Body Related,lip,il labbro (m) / le labbra (f),,m. noun / f. noun
+267,267,Body Related,nose,il naso (m),,m. noun
+572,572,Body Related,tooth,il dente (m) / i denti (m p),,m. noun
+52,52,Body Related,ear,l’orecchio (m) / le orecchie (f),,m. noun / f. noun
+63,63,Body Related,tear (drop),la lagrima (f),,f. noun
+696,696,Body Related,tongue,la lingua (f),,f. noun
+13,13,Body Related,back (body),la schiena (f),,f. noun
+644,644,Body Related,toe,il dito (m) / le dite (f),,m. noun / f. noun
+287,287,Body Related,finger,il dito (m) / le dite (f),,m. noun / f. noun
+248,248,Body Related,foot,il piede (m) / i piedi (m p),,m. noun
+351,351,Body Related,hand,la mano (f) / le mani (f p),,f. noun
+134,134,Body Related,leg,la gamba (f),,f. noun
+689,689,Body Related,arm,il braccio (m) / le braccia (f),,m. noun/f. noun
+374,374,Body Related,shoulder,la spalla (f),,f. noun
+185,185,Body Related,heart,il cuore (m),,m. noun
+542,542,Body Related,blood,il sangue (m),,m. noun
+521,521,Body Related,brain,il cervello (m),,m. noun
+607,607,Body Related,knee,il ginocchio (m) / le ginocchia (f),,
+315,315,Body Related,sweat,il sudore (m),,m. noun
+186,186,Body Related,disease,la malattia (f),,f. noun
+690,690,Body Related,bone,l’osso (m) / le ossa (f),,m. noun/f. noun
+172,172,Body Related,voice,la voce (f),,f. noun
+445,445,Body Related,skin,la pelle (f),,f. noun
+36,36,Body Related,body,il corpo (m),,m. noun
+749,749,,,,,
+750,750,,Nature Related,La natura,,
+150,150,Nature Related,sea,il mare (m),,m. noun
+582,582,Nature Related,ocean,l’oceano (m),,m. noun
+27,27,Nature Related,river,il fiume (m),,m. noun
+108,108,Nature Related,mountain,la montagna (f),,f. noun
+81,81,Nature Related,rain,la pioggia (f),,f. noun
+224,224,Nature Related,snow,la neve (f),,f. noun
+324,324,Nature Related,tree,l’albero (m),,m. noun
+264,264,Nature Related,sun,il sole (m),,m. noun
+4,4,Nature Related,moon,la luna (f),,f. noun
+587,587,Nature Related,world,il mondo (m),,m. noun
+1,1,Nature Related,Earth,la terra (f),,f. noun
+227,227,Nature Related,forest,la foresta (f) / il bosco (m),,
+2,2,Nature Related,sky,il cielo (m),,m. noun
+140,140,Nature Related,plant,la pianta (f),,f. noun
+228,228,Nature Related,wind,il vento (m),,m. noun
+137,137,Nature Related,soil/earth,il terreno (m) / la terra (f),,m. noun/f. noun
+633,633,Nature Related,flower,il fiore (m),,m. noun
+548,548,Nature Related,valley,la valle (f),,f. noun
+327,327,Nature Related,root,il radice (m),,m. noun
+407,407,Nature Related,lake,il lago (m),,m. noun
+8,8,Nature Related,star,la stella (f),,f. noun
+643,643,Nature Related,grass,l’erba (f),,f. noun
+231,231,Nature Related,leaf,la foglia (f),,f. noun
+385,385,Nature Related,air,l’aria (f),,f. noun
+128,128,Nature Related,sand,la sabbia (f),,f. noun
+127,127,Nature Related,beach,la spiaggia (f),,f. noun
+583,583,Nature Related,wave,l’onda (f),,f. noun
+677,677,Nature Related,fire,il fuoco (m),,m. noun
+28,28,Nature Related,ice,il ghiaccio (m),,m. noun
+129,129,Nature Related,island,l’isola (f),,f. noun
+423,423,Nature Related,hill,la collina (f),,f. noun
+524,524,Nature Related,heat,il caldo (m),,m. noun
+319,319,Nature Related,nature,la natura (f),,f. noun
+751,751,,,,,
+752,752,,Materials,Le materie,,
+145,145,Materials,glass,il vetro (m),,m. noun
+616,616,Materials,metal,il metallo (m),,m. noun
+166,166,Materials,plastic,la plastica (f),,f. noun
+325,325,Materials,wood,il legno (m),,m. noun
+107,107,Materials,stone,la pietra (f),,f. noun
+235,235,Materials,diamond,il diamante (m),,m. noun
+156,156,Materials,clay,l’argilla (f),,f. noun
+706,706,Materials,dust,il polvere (m),,m. noun
+484,484,Materials,gold,l’oro (m),,m. noun
+153,153,Materials,copper,il rame (m),,m. noun
+623,623,Materials,silver,l’argento (m),,m. noun
+624,624,Materials,material,il materiale (m) / le materie (fp),,m. noun / f. noun
+753,753,,,,,
+754,754,,Math/Measurements,La matematica/ Le misure,,
+414,414,Math/Measurements,meter,il metro (m),,m. noun
+159,159,Math/Measurements,centimeter,il centimetro (m),,m. noun
+279,279,Math/Measurements,kilogram,il chilogrammo (m),,m. noun
+713,713,Math/Measurements,inch,il pollice (m),,m. noun
+48,48,Math/Measurements,foot,il piede (m),,m. noun
+702,702,Math/Measurements,pound,la libbra (f),,f. noun
+471,471,Math/Measurements,half,mezzo/a (mf) / la metà (f),,m. noun / f. noun
+122,122,Math/Measurements,circle,il circolo (m),,m. noun
+413,413,Math/Measurements,square,il quadro (m),,m. noun
+311,311,Math/Measurements,temperature,la temperatura (f),,f. noun
+222,222,Math/Measurements,date,la data (f),,f. noun
+118,118,Math/Measurements,weight,il peso (m),,m. noun
+586,586,Math/Measurements,edge,il bordo (m),,m. noun
+598,598,Math/Measurements,corner,l’angolo (m),,m. noun
+755,755,,,,,
+756,756,,Misc Nouns,Nomi,,
+585,585,Misc Nouns,map,la mappa (f) / la pianta (f) / la carta geografica (f),,f. noun
+7,7,Misc Nouns,dot,il punto (m),,m. noun
+574,574,Misc Nouns,consonant,il consonante (m),,m. noun
+699,699,Misc Nouns,vowel,il vocale (m),,m. noun
+265,265,Misc Nouns,light,la luce (f),,f. noun
+575,575,Misc Nouns,sound,il suono (m),,m. noun
+204,204,Misc Nouns,yes,sì,,
+584,584,Misc Nouns,no,no,,
+357,357,Misc Nouns,piece,il pezzo (m),,m. noun
+14,14,Misc Nouns,pain,la pena (f),,f. noun
+687,687,Misc Nouns,injury,la ferita (f) / il lesione (m),,f. noun / m. noun
+343,343,Misc Nouns,hole,il buco (m),,m. noun
+337,337,Misc Nouns,image,l’immagine (f),,f. noun
+707,707,Misc Nouns,pattern,il modello (m) / la schema (f),,m. noun / f. noun
+72,72,Misc Nouns,noun,il nome (m),,m. noun
+31,31,Misc Nouns,verb,il verbo (m),,m. noun
+112,112,Misc Nouns,adjective,l’aggettivo (m),,m. noun
+757,757,,,,,
+758,758,,Directions,Le indicazioni,,
+663,663,Directions,top,la cima (f),,f. noun
+146,146,Directions,bottom,il fondo (m),,m. noun
+377,377,Directions,side,il lato (m),,m. noun
+270,270,Directions,front,il fronte (m),,m. noun
+395,395,Directions,back (direction),il retro (m),,m. noun
+453,453,Directions,outside,fuori,,
+392,392,Directions,inside,dentro,,
+3,3,Directions,up,sù,,
+144,144,Verbs,down,giù,,
+376,376,Directions,left,sinistro/a (mf),,m. noun / f. noun
+535,535,Directions,right,destro/a (mf),,m. noun / f. noun
+394,394,Directions,straight,diritto,,
+79,79,Directions,north,il Nord (m),,m. noun
+502,502,Directions,south,il Sud (m),,m. noun
+512,512,Directions,east,l’Est (m),,m. noun
+503,503,Directions,west,l’Ovest (m),,m. noun
+513,513,Directions,direction,la direzione (f),,
+759,759,,,,,
+760,760,,Seasons,Le stagioni,,
+314,314,Seasons,Summer,l’estate (f),,f. noun
+23,23,Seasons,Spring,la primavera (f),,f. noun
+74,74,Seasons,Winter,l’inverno (m),,m. noun
+636,636,Seasons,Fall,l’autunno (m),,m. noun
+637,637,Seasons,season,la stagione (f),,f. noun
+761,761,,,,,
+762,762,,Numbers (written out),I numeri,,
+120,120,Numbers (written out),0,zero,,
+5,5,Numbers (written out),1,uno,,
+244,244,Numbers (written out),2,due,,
+195,195,Numbers (written out),3,tre,,
+133,133,Numbers (written out),4,quattro,,
+47,47,Numbers (written out),5,cinque,,
+278,278,Numbers (written out),6,sei,,
+164,164,Numbers (written out),7,sette,,
+209,209,Numbers (written out),8,otto,,
+261,261,Numbers (written out),9,nove,,
+286,286,Numbers (written out),10,dieci,,
+179,179,Numbers (written out),11,undici,,
+307,307,Numbers (written out),12,dodici,,
+329,329,Numbers (written out),13,tredici,,
+577,577,Numbers (written out),14,quattordici,,
+180,180,Numbers (written out),15,quindici,,
+387,387,Numbers (written out),16,seidici,,
+363,363,Numbers (written out),17,diciassette,,
+342,342,Numbers (written out),18,diciotto,,
+619,619,Numbers (written out),19,diciannove,,
+25,25,Numbers (written out),20,venti,,
+437,437,Numbers (written out),21,ventuno,,
+246,246,Numbers (written out),22,ventidue,,
+158,158,Numbers (written out),30,trenta,,
+221,221,Numbers (written out),31,trentuno,,
+712,712,Numbers (written out),32,trentadue,,
+262,262,Numbers (written out),40,quaranta,,
+620,620,Numbers (written out),41,quarantuno,,
+693,693,Numbers (written out),42,quarantadue,,
+470,470,Numbers (written out),50,cinquanta,,
+505,505,Numbers (written out),51,cinquantuno,,
+489,489,Numbers (written out),52,cinquantadue,,
+420,420,Numbers (written out),60,sessanta,,
+596,596,Numbers (written out),61,sessantuno,,
+456,456,Numbers (written out),62,sessantadue,,
+102,102,Numbers (written out),70,settanta,,
+680,680,Numbers (written out),71,settantuno,,
+538,538,Numbers (written out),72,settantadue,,
+100,100,Numbers (written out),80,ottanta,,
+412,412,Numbers (written out),81,ottantuno,,
+511,511,Numbers (written out),82,ottantadue,,
+399,399,Numbers (written out),90,novanta,,
+527,527,Numbers (written out),91,novantuno,,
+578,578,Numbers (written out),92,novantadue,,
+472,472,Numbers (written out),100,cento,,
+17,17,Numbers (written out),101,centuno,,
+310,310,Numbers (written out),102,centodue,,
+701,701,Numbers (written out),110,centodieci,,
+649,649,Numbers (written out),111,centoundici,,
+492,492,Numbers (written out),1000,mille,,
+69,69,Numbers (written out),1001,mille e una,,
+566,566,Numbers (written out),10000,diecimila,,
+666,666,Numbers (written out),100000,centomila,,
+103,103,Numbers (written out),million,milione,,
+173,173,Numbers (written out),billion,miliardi,,
+41,41,Numbers (written out),1st,primo/a (mf),,m. noun / f. noun
+75,75,Numbers (written out),2nd,secondo/a (mf),,m. noun / f. noun
+433,433,Numbers (written out),3rd,terzo/a (mf),,m. noun / f. noun
+557,557,Numbers (written out),4th,quarto/a (mf),,m. noun / f. noun
+629,629,Numbers (written out),5th,quinto/a (mf),,m. noun / f. noun
+123,123,Numbers (written out),number,il numero (m),,m. noun
+763,763,,,,,
+764,764,,Months,I mesi dell’anno,,
+40,40,Months,January,gennaio,,m. noun
+76,316,Months,February,febbraio,,m. noun
+24,638,Months,March,marzo,,m. noun
+364,364,Months,April,aprile,,m. noun
+628,223,Months,May,maggio,,m. noun
+125,242,Months,June,giugno,,m. noun
+558,558,Months,July,luglio,,m. noun
+316,76,Months,August,agosto,,m. noun
+638,24,Months,September,settembre,,m. noun
+242,628,Months,October,ottobre,,m. noun
+432,432,Months,November,novembre,,m. noun
+223,125,Months,December,dicembre,,m. noun
+765,765,,,,,
+766,766,,Days of the week,I giorni della settimana,,
+509,509,Days of the week,Monday,lunedì,,m. noun
+431,431,Days of the week,Tuesday,martedì,,m. noun
+366,366,Days of the week,Wednesday,mercoledì,,m. noun
+243,243,Days of the week,Thursday,giovedì,,m. noun
+10,10,Days of the week,Friday,venerdì,,m. noun
+435,435,Days of the week,Saturday,sabato,,m. noun
+238,238,Days of the week,Sunday,domenica,,f. noun
+767,767,,,,,
+768,768,,Time Related,Il tempo,,
+104,104,Time Related,year,l’anno (m),,m. noun
+308,308,Time Related,month,il mese (m),,m. noun
+490,490,Time Related,week,la settimana (f),,f. noun
+165,165,Time Related,day,il giorno (m),,m. noun
+539,539,Time Related,hour,l’ora (f),,f. noun
+400,400,Time Related,minute,il minuto (m),,m. noun
+421,421,Time Related,second,il secondo (m),,m. noun
+263,263,Time Related,morning,la mattina (f),,f. noun
+388,388,Time Related,afternoon,il pomeriggio (m),,m. noun
+178,178,Time Related,evening,la sera (f),,f. noun
+70,70,Time Related,night,la notte (f),,f. noun
+386,386,Time Related,time,il tempo (m),,m. noun
+769,769,,,,,
+770,770,,Verbs,I verbi,,
+516,516,Verbs,to work,lavorare,,
+345,345,Verbs,to play,giocare (sport) / suonare (musical instrument),,
+77,77,Verbs,to walk,camminare,,
+425,425,Verbs,to run,correre,,
+532,532,Verbs,to drive,guidare,,
+507,507,Verbs,to fly,volare,,
+406,406,Verbs,to swim,nuotare,,
+226,226,Verbs,to go,andare,,
+536,536,Verbs,to stop,fermare,,
+194,194,Verbs,to follow,seguire,,
+522,522,Verbs,to think,pensare,,
+573,573,Verbs,to speak/say,dire,,
+138,138,Verbs,to eat,mangiare,,
+717,717,Verbs,to drink,bere,,
+673,673,Verbs,to kill,uccidere,,
+684,684,Verbs,to die,morire,,
+480,480,Verbs,to smile,sorridere,,
+403,403,Verbs,to laugh,ridere,,
+62,62,Verbs,to cry,piangere,,
+85,85,Verbs,to buy,comprare,,
+304,304,Verbs,to pay,pagare,,
+94,94,Verbs,to sell,vendere,,
+465,465,Verbs,to shoot(a gun),sparare,,
+285,285,Verbs,to learn,imparare,,
+21,21,Verbs,to jump,saltare,,
+268,268,Verbs,to smell,odorare / sentire,,
+559,559,Verbs,to hear (a sound),sentire,,
+499,499,Verbs,to listen (music),ascoltare,,
+590,590,Verbs,to taste,assaggiare / sentire,,
+35,35,Verbs,to touch,toccare,,
+273,273,Verbs,to see (a bird),vedere,,
+711,711,Verbs,to watch (TV),guardare,,
+33,33,Verbs,to kiss,baciare,,
+618,618,Verbs,to burn,bruciare,,
+29,29,Verbs,to melt,sciogliere,,
+136,136,Verbs,to dig,scavare,,
+560,560,Verbs,to explode,esplodere,,
+143,143,Verbs,to sit,sedere,,
+12,12,Verbs,to stand,stare/alzare in piedi,,
+68,68,Verbs,to love,amare,,
+332,332,Verbs,to pass by,passare,,
+634,634,Verbs,to cut,tagliare,,
+448,448,Verbs,to fight,lottare / litigare,,
+381,381,Verbs,to lie down,sdraiare,,
+669,669,Verbs,to dance,ballare,,
+183,183,Verbs,to sleep,dormire,,
+641,641,Verbs,to wake up,svegliarsi,,
+320,320,Verbs,to sing,cantare,,
+16,16,Verbs,to count,contare,,
+601,601,Verbs,to marry,sposarsi,,
+608,608,Verbs,to pray,pregare,,
+429,429,Verbs,to win,vincere,,
+348,348,Verbs,to lose,perdere,,
+553,553,Verbs,to mix/stir,mescolare,,
+695,695,Verbs,to bend,piegare,,
+657,657,Verbs,to wash,lavare,,
+293,293,Verbs,to cook,cucinare / cuocere,,
+697,697,Verbs,to open,aprire,,
+626,626,Verbs,to close,chiudere,,
+491,491,Verbs,to write,scrivere,,
+401,401,Verbs,to call,chiamare,,
+534,534,Verbs,to turn,girare / voltare,,
+411,411,Verbs,to build,costruire,,
+473,473,Verbs,to teach,insegnare,,
+631,631,Verbs,to grow,crescere,,
+335,335,Verbs,to draw,disegnare,,
+550,550,Verbs,to feed,nutrire,,
+277,277,Verbs,to catch,catturare / prendere,,
+239,239,Verbs,to throw,lanciare,,
+540,540,Verbs,to clean,pulire,,
+579,579,Verbs,to find,trovare,,
+109,109,Verbs,to fall,cadere,,
+188,188,Verbs,to push,spingere,,
+256,256,Verbs,to pull,tirare,,
+117,117,Verbs,to carry,portare,,
+688,688,Verbs,to break,rompere,,
+51,51,Verbs,to wear,mettere / indossare,,
+338,338,Verbs,to hang,appendere,,
+229,229,Verbs,to shake,girare,,
+176,176,Verbs,to sign,segnare,,
+252,252,Verbs,to beat,battere (a drum) / picchiare (a person),,
+378,378,Verbs,to lift,sollevare,,
+651,651,Verbs,to live,,,
+771,771,,,,,
+772,772,,Adjectives,Gli aggettivi (gender changes according to object),,
+95,95,Adjectives,long,lungo/a,,
+567,567,Adjectives,short (vs long),corto/a,,
+160,160,Adjectives,tall,alto/a,,
+49,49,Adjectives,short (vs tall),basso/a,,
+715,715,Adjectives,wide,largo/a,,
+212,212,Adjectives,narrow,stretto/a,,
+350,350,Adjectives,big/large,grande,,
+234,234,Adjectives,small/little,piccolo/a,,
+497,497,Adjectives,slow,lento/a,,
+426,426,Adjectives,fast,veloce,,
+312,312,Adjectives,hot,caldo/a,,
+78,78,Adjectives,cold,freddo/a,,
+126,126,Adjectives,warm,caloroso/a,,
+718,718,Adjectives,cool,fresco/a,,
+42,42,Adjectives,new,nuovo/a,,
+105,105,Adjectives,old (new),vecchio/a,,
+18,18,Adjectives,young,giovane,,
+654,654,Adjectives,old (young),vecchio/a / anziano/a,,
+297,297,Adjectives,good,buono/a,,
+440,440,Adjectives,bad,male,,
+82,82,Adjectives,wet,bagnato/a,,
+313,313,Adjectives,dry,asciugato/a / secco/a,,
+655,655,Adjectives,sick,malato/a / ammalato/a,,
+45,45,Adjectives,healthy,sano/a / in forma,,
+59,59,Adjectives,loud,forte,,
+171,171,Adjectives,quiet,piano,,
+205,205,Adjectives,happy,felice,,
+449,449,Adjectives,sad,triste,,
+155,155,Adjectives,beautiful,bello/a,,
+280,280,Adjectives,ugly,brutto/a,,
+57,57,Adjectives,deaf,muto/a,,
+196,196,Adjectives,blind,cieco/a,,
+451,451,Adjectives,nice,simpatico/a,,
+672,672,Adjectives,mean,antipatico/a,,
+486,486,Adjectives,rich,ricco/a,,
+514,514,Adjectives,poor,povero/a,,
+326,326,Adjectives,thick,denso/a / grosso/a,,
+230,230,Adjectives,thin,magro/a,,
+544,544,Adjectives,expensive,costoso/a,,
+162,162,Adjectives,cheap,economico/a,,
+281,281,Adjectives,flat,piato/a,,
+121,121,Adjectives,curved,curvato/a,,
+352,352,Adjectives,male,maschile,,
+483,483,Adjectives,female,femminile,,
+54,54,Adjectives,tight,stretto/a,,
+96,96,Adjectives,loose,sciolto/a / ampio/a,,
+422,422,Adjectives,high,alto/a,,
+547,547,Adjectives,low,basso/a,,
+642,642,Adjectives,soft,morbido/a,,
+106,106,Adjectives,hard,duro/a,,
+581,581,Adjectives,deep,profondo/a,,
+26,26,Adjectives,shallow,superficiale,,
+659,659,Adjectives,clean,pulito/a,,
+135,135,Adjectives,dirty,sporco/a,,
+254,254,Adjectives,strong,forte,,
+606,606,Adjectives,weak,debole,,
+110,110,Adjectives,dead,morto/a,,
+191,191,Adjectives,alive,vivo/a,,
+257,257,Adjectives,heavy,pesante,,
+703,703,Adjectives,light (heavy),leggero/a,,
+65,65,Adjectives,dark,scuro/a,,
+460,460,Adjectives,light (dark),chiaro/a,,
+523,523,Adjectives,nuclear,nucleare,,
+661,661,Adjectives,famous,famoso/a,,
+773,773,,,,,
+774,774,,Subject Pronouns,Pronomi,,
+292,292,Subject Pronouns,I,io,,
+284,284,Subject Pronouns,you (singular),tu,,
+671,671,Subject Pronouns,he,lui /egli,,
+380,380,Subject Pronouns,she,lei / ella,,
+88,88,Subject Pronouns,it,esso/a,,
+556,556,Subject Pronouns,we,noi,,
+208,208,Subject Pronouns,you (plural as in 'y'all'),voi,,
+650,650,Subject Pronouns,they,loro,,
